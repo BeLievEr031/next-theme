@@ -4,7 +4,7 @@ import Link from "next/link";
 
 function CityC1({ cardData }) {
   useEffect(() => {
-    console.log("🔥🔥🔥🔥",cardData);
+    console.log("🔥🔥🔥🔥", cardData);
   }, [cardData]);
 
   return (
@@ -22,6 +22,7 @@ function CityC1({ cardData }) {
                 objectFit="strech"
                 layout="fill"
                 className="w-fit h-fit"
+                unoptimized={true}
                 alt="img"
               />
             </div>

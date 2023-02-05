@@ -18,6 +18,7 @@ function Middlecard({ slug, breakingNews, data }) {
                   layout="fill"
                   className="w-fit h-fit"
                   alt="img"
+                  unoptimized={true}
                 />
               </div>
             </div>
@@ -40,6 +41,7 @@ function Middlecard({ slug, breakingNews, data }) {
                                 layout="fill"
                                 className="w-fit h-fit"
                                 alt="img"
+                                unoptimized={true}
                               />
                             </div>
                             <div className="text-normal font-normal pb-2 w-[14rem]">

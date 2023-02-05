@@ -32,6 +32,7 @@ function Rightcard({ breakingNews }) {
                       layout="fill"
                       className="w-fit h-fit"
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div class=" border-l-2 border-gray-300 h-[85px] ml-[5px]"></div>

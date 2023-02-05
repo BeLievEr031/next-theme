@@ -43,6 +43,7 @@ function State() {
                     layout="fill"
                     className="w-fit h-fit"
                     alt="img"
+                    unoptimized={true}
                   />
                 </div>
                 <div className="text-xl font-bold   text=[1.100rem]">
@@ -62,6 +63,7 @@ function State() {
                       layout="fill"
                       className="absolute "
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div className="text-normal font-normal pb-2">
@@ -80,6 +82,7 @@ function State() {
                       layout="fill"
                       className="w-fit h-fit"
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div className="text-normal font-normal pb-2">
@@ -122,6 +125,7 @@ function State() {
                     layout="fill"
                     className="w-fit h-fit"
                     alt="img"
+                    unoptimized={true}
                   />
                 </div>
                 <div className="text-xl font-bold   text=[1.100rem]">
@@ -141,6 +145,7 @@ function State() {
                       layout="fill"
                       className="absolute "
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div className="text-normal font-normal pb-2">
@@ -159,6 +164,7 @@ function State() {
                       layout="fill"
                       className="w-fit h-fit"
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div className="text-normal font-normal pb-2">
@@ -202,6 +208,7 @@ function State() {
                     layout="fill"
                     className="w-fit h-fit"
                     alt="img"
+                    unoptimized={true}
                   />
                 </div>
                 <div className="text-xl font-bold   text=[1.100rem]">
@@ -221,6 +228,7 @@ function State() {
                       layout="fill"
                       className="absolute "
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div className="text-normal font-normal pb-2">
@@ -239,6 +247,7 @@ function State() {
                       layout="fill"
                       className="w-fit h-fit"
                       alt="img"
+                      unoptimized={true}
                     />
                   </div>
                   <div className="text-normal font-normal pb-2">

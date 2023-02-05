@@ -60,25 +60,18 @@ export default function Home(props) {
             {/* Oneline */}
             {categories.length >= 14 && <HealthN />}
             <World />
-            {/* Oneline */}
+           
             {categories.length >= 21 && <Automobile />}
             {categories.length >= 28 && <Business />}
             {categories.length >= 35 && <Astrology />}
-            {/* <Astrology /> */}
+           
 
             <LatestN />
           </div>
         </Layout>
       ) : (
         <div className="flex h-screen w-screen items-center justify-center">
-          <ClockLoader
-            color={"white"}
-            loading={true}
-            // cssOverride={override}
-            size={150}
-            aria-label="Loading Spinner"
-            data-testid="loader"
-          />
+         loading....
         </div>
       )}
     </>

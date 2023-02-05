@@ -15,6 +15,7 @@ function Footer() {
                   layout="fill"
                   className="w-fit h-fit"
                   alt="abt img"
+                  unoptimized={true}
                 />
               </div>
             </div>

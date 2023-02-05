@@ -42,6 +42,7 @@ function PlyCard2({
                             alt="img"
                             layout="fill"
                             className="absolute "
+                            unoptimized={true}
                           />
                         </div>
                       </Link>
@@ -220,6 +221,7 @@ function PlyCard2({
                             alt="img"
                             layout="fill"
                             className="absolute "
+                            unoptimized={true}
                           />
                         </div>
                       </div>

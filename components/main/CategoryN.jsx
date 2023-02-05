@@ -30,6 +30,7 @@ function CategoryN() {
                         layout="fill"
                         className="absolute"
                         alt="img"
+                        unoptimized={true}
                       />
                     </div>
                   </Link>
@@ -70,6 +71,7 @@ function CategoryN() {
                         layout="fill"
                         className="absolute"
                         alt="img"
+                        unoptimized={true}
                       />
                     </div>
                   </Link>
@@ -110,6 +112,7 @@ function CategoryN() {
                         layout="fill"
                         className="absolute"
                         alt="img"
+                        unoptimized={true}
                       />
                     </div>
                   </Link>
@@ -150,6 +153,7 @@ function CategoryN() {
                         layout="fill"
                         className="absolute"
                         alt="img"
+                        unoptimized={true}
                       />
                     </div>
                   </Link>

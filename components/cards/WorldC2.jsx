@@ -41,6 +41,7 @@ function WorldC2({ worldCardData }) {
                       layout="fill"
                       className="w-fit h-fit"
                       alt="img"
+                      unoptimized={true}
                     />
                   </Link>
                 </div>

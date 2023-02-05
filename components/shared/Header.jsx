@@ -47,6 +47,7 @@ function Header() {
                     layout="fill"
                     className="absolute w-fit h-fit"
                     alt="abt img"
+                    unoptimized={true}
                   />
                 </Link>
               </div>

@@ -25,6 +25,7 @@ function PlyCard({ parent, plyCard1Data, data, start, end }) {
                           layout="fill"
                           className="w-fit h-fit"
                           alt="img"
+                          unoptimized={true}
                         />
                       </div>
                       <div className="text-xl font-bold   text=[1.100rem]">

@@ -19,10 +19,12 @@ function EtmCard({ etmCardData, data, start, end }) {
                             etmCardData &&
                             etmCardData.length > 0 &&
                             etmCardData[0].thumbnail
+
                           }
                           objectFit="strech"
                           layout="fill"
                           className="w-fit h-fit"
+                          unoptimized={true}
                           alt="img"
                         />
                       </div>
@@ -48,6 +50,7 @@ function EtmCard({ etmCardData, data, start, end }) {
                           layout="fill"
                           className="w-fit h-fit"
                           alt="img"
+                          unoptimized={true}
                         />
                       </div>
                       <div className="text-xl font-bold   text=[1.100rem]">
@@ -76,6 +79,7 @@ function EtmCard({ etmCardData, data, start, end }) {
                               layout="fill"
                               className="w-fit h-fit"
                               alt="img"
+                              unoptimized={true}
                             />
                           </div>
                           <div className="text-normal font-normal pb-2">
