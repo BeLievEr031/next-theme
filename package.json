@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev --port 53",
     "build": "next build",
-    "start": "next start --port 53",
+    "start": "next start --port 443",
     "lint": "next lint",
     "export": "next build && next export"
   },
